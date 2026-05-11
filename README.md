@@ -38,4 +38,5 @@ Criação de layouts mais profissionais
 Evolução na construção visual de interfaces
 
 ## ⚠️ Aviso
-Este projeto é focado em prática de estilização e estrutura visual. Contém funcionalidades dinâmicas com JavaScript porém é necessário usar sua própria API Key.
+Este projeto é com intuito educacional, focado em prática de estilização e estrutura visual.
+Contém funcionalidades dinâmicas com JavaScript porém é necessário usar sua própria API Key.
