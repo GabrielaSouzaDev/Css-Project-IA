@@ -24,6 +24,8 @@ HTML — Estrutura da página
 
 CSS — Estilização, layout e organização visual
 
+JavaScript — Solicita para a AI o código com base em um prompt simples e disponibiliza visualização de código e elemento visual
+
 ## 🧠 Lógica utilizada
 Embora não envolva lógica de programação complexa, o projeto aplica lógica estrutural e visual na organização dos elementos, uso de classes, posicionamento, responsividade e composição do layout.
 
